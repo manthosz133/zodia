@@ -52,7 +52,7 @@ import items from './test.json'
 header {
   text-align: center;
   padding: 20px;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.60)50%, rgba(0, 0, 0, 0.60)50%), url(https://img.freepik.com/free-vector/gradient-galaxy-background_52683-65386.jpg?t=st=1724818942~exp=1724822542~hmac=d82b771a154eb888230b72f50e88cefb0a579cf1cedd5dd285702d23e14cbed5&w=900);
+ background-color: black;
   background-size: cover;
   background-position: center;
   animation: moveBackground 30s linear infinite;
